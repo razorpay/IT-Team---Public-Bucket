@@ -2,3 +2,8 @@
 
 Created by Rudresh Kumar on 9th March
 Used to save the screensaver image on Temporary basis, will be removed 14th March
+
+
+27th March 
+Upload VOR screensaver for iZealiant 
+Remove on 28th March
